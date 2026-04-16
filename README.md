@@ -14,6 +14,7 @@ Our dataset focuses on recalls of food and dietary supplements and was obtained 
 
 ## Question 1:
 Question: What types of food products are most frequently recalled, and how do recall trends vary over time (by month or year)?
+
 Importance:
 
 ## Question 2:
