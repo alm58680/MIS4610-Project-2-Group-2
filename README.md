@@ -18,6 +18,7 @@ Importance:
 
 ## Question 2:
 Question: Are there noticeable spikes or seasonal patterns in food and product recalls and terminations over time, and what might explain these fluctuations?
+
 Importance:
 
 ## Manupulations applied to the data set for analysis:
