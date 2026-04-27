@@ -30,6 +30,7 @@ Question: What product categories and recall reasons occur most frequently? Base
 
 <img width="632" height="422" alt="Screenshot 2026-04-27 at 2 27 10 PM" src="https://github.com/user-attachments/assets/85bd8bd9-7678-4d4e-9441-c8965759c644" />
 Importance:
+The graph highlights the most frequent recalled product categories and their recall reasons. Based on the data Food & Beverages clearly account for the highest number of recalls compared to other categories such as Animal & Veterinary and Drugs. Within Food & Beverages, the most common recall reasons are because of contamination and labeling issues, particularly Salmonella, Listeria monocytogenes, and undeclared allergens like milk, eggs, and sesame. Similarly, in the Animal & Veterinary category, recalls were often because of Salmonella contamination and potential foodborne illness risks. Overall, contamination and undeclared allergen labeling were the dominant cause across all categories, which indicated that food safety risk and labeling accuracy are the biggest drivers behind the majority of product recalls. 
 
 <img width="475" height="590" alt="Screenshot 2026-04-27 at 2 27 21 PM" src="https://github.com/user-attachments/assets/78187dd7-f513-4966-93b0-47461dc4fe0b" />
 
