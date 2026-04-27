@@ -26,7 +26,7 @@ ciation: https://www.governing.com/management-and-administration/why-have-there-
 
 
 ## Question 2:
-Question: 
+Question: What product categories and recall reasons occur most frequently? Based on the results from Question 1, which showed a spike in recalls from late 2023 to early 2024, we wanted to examine whether these same categories and reasons followed a similar trend.
 
 <img width="632" height="422" alt="Screenshot 2026-04-27 at 2 27 10 PM" src="https://github.com/user-attachments/assets/85bd8bd9-7678-4d4e-9441-c8965759c644" />
 
