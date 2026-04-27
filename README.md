@@ -22,6 +22,8 @@ Importance: Our graph shows the number of food and product recalls over time, al
 
 The graph also suggests that the spikes don’t appear randomly and suggest seasonal patterns in recall activity. For example, it’s very clear that in recent years there has been higher recall counts which could be driven by stricter regulatory support, improvements in reporting systems, or external factors such as supply chain disruptions. Additionally, in each year there are fluctuations which could be tied to seasonal production cycles in the food industry, where certain products are more widely produced during a specific time (ex: more hot chocolate produced in winter season). After doing additional research, we concluded that a main reason for the spike in recalls was the COVID-19 pandemic, which affected the entire world from 2019 to 2022. After the pandemic subsided, research shows that government agencies took regulatory matters more seriously, which led to an increase in recalls. Overall, the graph highlights that recall activity isn’t constant over time and that understanding these spikes can help regulators and companies better prepare for periods of higher risk.
 
+ciation: https://www.governing.com/management-and-administration/why-have-there-been-so-many-food-recalls-recently#:~:text=This%20gray%20area%20is%20where,safety%20practices%2C%E2%80%9D%20he%20said.
+
 
 ## Question 2:
 Question: 
