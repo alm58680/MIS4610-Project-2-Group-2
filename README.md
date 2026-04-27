@@ -15,7 +15,7 @@ Our dataset focuses on recalls of food and dietary supplements and was obtained 
 ## Question 1:
 Question: Are there noticeable spikes or seasonal patterns in food and product recalls and terminations over time, and what might explain these fluctuations?
 
-<img width="627" height="376" alt="Screenshot 2026-04-27 at 1 43 06 PM" src="https://github.com/user-attachments/assets/0d9b4df6-09c8-4c02-a652-f5ba850ca4ec" />
+<img width="1250" height="742" alt="image" src="https://github.com/user-attachments/assets/3a3d566e-0167-4962-b447-79a2555da2b4" />
 
 
 Importance: Our graph shows the number of food and product recalls over time, along with how many of those recalls were terminated. From the graph we can see that the amount of items recalled is relatively low and stable in earlier years. However starting in around 2023-2024, the amount of recalls starts to spike exponentially. This was super clear in February 2024 when there were a total of 34 recalls. This shows that in this period there are safety issues or regulatory actions that became more frequent. Additionally,. Terminated recalls follow the same pattern, though at a lower level, which suggests that as recall activity increases, more cases are also being resolved or closed out.
