@@ -15,9 +15,10 @@ Our dataset focuses on recalls of food and dietary supplements and was obtained 
 ## Question 1:
 Question: Are there noticeable spikes or seasonal patterns in food and product recalls and terminations over time, and what might explain these fluctuations?
 
+<img width="627" height="376" alt="Screenshot 2026-04-27 at 1 43 06 PM" src="https://github.com/user-attachments/assets/0d9b4df6-09c8-4c02-a652-f5ba850ca4ec" />
 
 
-Importance:
+Importance: 
 
 ## Question 2:
 Question: 
