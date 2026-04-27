@@ -28,6 +28,11 @@ ciation: https://www.governing.com/management-and-administration/why-have-there-
 ## Question 2:
 Question: 
 
+<img width="475" height="590" alt="Screenshot 2026-04-27 at 2 27 21 PM" src="https://github.com/user-attachments/assets/78187dd7-f513-4966-93b0-47461dc4fe0b" />
+<img width="632" height="422" alt="Screenshot 2026-04-27 at 2 27 10 PM" src="https://github.com/user-attachments/assets/85bd8bd9-7678-4d4e-9441-c8965759c644" />
+
+
+
 Importance:
 
 ## Manupulations applied to the data set for analysis:
