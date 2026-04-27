@@ -29,6 +29,7 @@ Question:
 Importance:
 
 ## Manupulations applied to the data set for analysis:
+The data set needed to be standardized, but no data manipulation was required. The goal of a standardized data set is to convert unprocessed data into information that can be used for analysis. We have measurable, quantifiable data that meets the criteria for meaningful, interpretable data, therefore our data fulfills that description. Additionally, none of the information in our data is redundant, unnecessary, incorrect, or of poor quality. Additionally, we have cleaned the data, removing any false, irrelevant, or incomplete information. In addition to all of this, our data has been structured and is free of external imports.
 
 ## Tableau packaged workbook:
 The packaged workbook containing the visualizations shown above is attached to this repository.
