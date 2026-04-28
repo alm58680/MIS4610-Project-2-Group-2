@@ -45,4 +45,4 @@ Source: https://www.usda.gov/about-usda/news/press-releases/2022/08/01/usda-anno
 The dataset didn't need to be significantly altered for our research, but we did take measures to make sure it was suitable for use and standardized. To ensure a valid analysis, the raw data must be arranged into a clear, uniform, and useable format by standardizing the dataset. Because the data in our dataset is measurable, significant, and simple to understand, it achieved that objective. Additionally, we checked the data to make sure there were no redundant, irrelevant, duplicate, or inaccurate entries. The dataset was also cleansed to exclude any inaccurate data. 
 
 ## Tableau packaged workbook:
-The packaged workbook containing the visualizations shown above is attached to this repository.
+The packaged workbook containing the visualizations shown above is included in this repository.
